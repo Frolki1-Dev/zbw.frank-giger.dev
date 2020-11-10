@@ -10,12 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19b56097-bbb6-4d0e-83f8-98d83188ce5a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/zbw.frank-giger.dev.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="19b56097-bbb6-4d0e-83f8-98d83188ce5a" name="Default Changelist" comment="Init">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,8 +53,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605008403148</updated>
-      <workItem from="1605008404244" duration="1420000" />
+      <workItem from="1605008404244" duration="1641000" />
     </task>
+    <task id="LOCAL-00001" summary="Init">
+      <created>1605009914673</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605009914673</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -74,6 +79,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Init" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="552" y="218" key="#Deployment" timestamp="1605009368610">
       <screen x="0" y="40" width="1920" height="1040" />
@@ -87,6 +96,10 @@
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
     <state x="705" y="410" key="FileChooserDialogImpl/-1920.32.1536.832/0.40.1920.1040@0.40.1920.1040" timestamp="1605009270309" />
+    <state x="552" y="293" key="Vcs.Push.Dialog.v2" timestamp="1605009916183">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="552" y="293" key="Vcs.Push.Dialog.v2/-1920.32.1536.832/0.40.1920.1040@0.40.1920.1040" timestamp="1605009916183" />
     <state x="795" y="290" key="ftp.server.browser" timestamp="1605009349312">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
