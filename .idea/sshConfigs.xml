@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="fg-control.ch" id="91a612d7-bf49-446e-b7a1-0b2fa6ee9c15" keyPath="X:\Informationstechnologie\Keys\V-Server\fg-control.ch\2.59.135.247.key" port="22" nameFormat="DESCRIPTIVE" username="root" />
+    </configs>
+  </component>
+</project>

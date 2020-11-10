@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a69c43ac-027d-4001-9843-06b8ee3b632e" name="vServer" url="https://zbw.frank-giger.dev">
+        <fileTransfer rootFolder="/var/customers/webs/frank/zbw.frank-giger.dev" accessType="SFTP" host="fg-control.ch" port="22" sshConfigId="91a612d7-bf49-446e-b7a1-0b2fa6ee9c15" sshConfig="root@fg-control.ch:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions controlEncoding="utf8" dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
