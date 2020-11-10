@@ -10,7 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19b56097-bbb6-4d0e-83f8-98d83188ce5a" name="Default Changelist" comment="some changes">
+    <list default="true" id="19b56097-bbb6-4d0e-83f8-98d83188ce5a" name="Default Changelist" comment="Added github link">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +59,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605008403148</updated>
-      <workItem from="1605008404244" duration="1830000" />
+      <workItem from="1605008404244" duration="1870000" />
+      <workItem from="1605010800095" duration="30000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <created>1605009914673</created>
@@ -74,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605010177155</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added github link">
+      <created>1605010260716</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605010260716</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,11 +99,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init" />
     <MESSAGE value="some changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="some changes" />
+    <MESSAGE value="Added github link" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added github link" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="218" key="#Deployment" timestamp="1605009368610">
@@ -109,10 +120,10 @@
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
     <state x="705" y="410" key="FileChooserDialogImpl/-1920.32.1536.832/0.40.1920.1040@0.40.1920.1040" timestamp="1605009270309" />
-    <state x="552" y="293" key="Vcs.Push.Dialog.v2" timestamp="1605010178173">
+    <state x="552" y="293" key="Vcs.Push.Dialog.v2" timestamp="1605010262058">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state x="552" y="293" key="Vcs.Push.Dialog.v2/-1920.32.1536.832/0.40.1920.1040@0.40.1920.1040" timestamp="1605010178173" />
+    <state x="552" y="293" key="Vcs.Push.Dialog.v2/-1920.32.1536.832/0.40.1920.1040@0.40.1920.1040" timestamp="1605010262058" />
     <state x="795" y="290" key="ftp.server.browser" timestamp="1605009349312">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
